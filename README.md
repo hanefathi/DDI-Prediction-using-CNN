@@ -1,2 +1,1 @@
-# DDI-Prediction-using-CNN
-Prediction of drug-drug interaction using basic convolutional neural network
+Drug-Drug Interaction (DDI) prediction using convolutional neural network: We conducted experiments on a 64-bit system equipped with 4 GB of RAM and an Intel Core i3 CPU. The code was executed in Python 3.9 within the Jupyter Notebook IDE, utilizing libraries such as pandas, TensorFlow, Keras, NumPy, NLTK, and scikit-learn. The code for CNN-DDIs.ipynb is available in the notebook.
